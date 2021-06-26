@@ -31,7 +31,7 @@ const getLight = function() {
 }; // getLight
 
 
-// Animate or render the scene
+// Animate and render the scene
 const animate = function () {
   requestAnimationFrame( animate );
 
