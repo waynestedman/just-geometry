@@ -1,0 +1,9 @@
+<script type="importmap">
+  {
+    "imports": {
+      "three": "./three.module.js",
+      "three/examples/jsm/controls/OrbitControls":"./OrbitControls.js",
+      "three/examples/jsm/libs/GLTFLoader":"./GLTFLoader.js"
+    }
+  }
+</script>

@@ -1,0 +1,19 @@
+{
+  "name": "just-geometry",
+  "version": "0.0.1",
+  "description": "ThreeJS projects - exploring just geometry",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "html",
+    "css"
+  ],
+  "author": "Wayne Stedman",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.129.0"
+  }
+}
