@@ -12,10 +12,39 @@ h1 {
   font-size: 2rem;
 }
 
+#sceneNav {
+  position: absolute;
+  top: 2;
+  left: 0;
+  width: 8%;
+  padding: 1rem;
+  z-index: 10;
+}
+
+#sceneNav .btn {
+  width: 80px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
 #sceneContainer {
   position: relative;
+  display: flex;
+  justify-content: center;
   margin: 2rem auto;
-  width: 100vw;
-  height: 100vh;
-  background-color: beige;
+  width: 80vw;
+  height: 80vh;
+  background-color: rgb(125, 225, 243);
+}
+
+/* #sceneContainer canvas {
+  margin: ;
+} */
+
+
+
+#credits {
+  position: absolute;
+  bottom: 1;
+  right: 1;
 }
